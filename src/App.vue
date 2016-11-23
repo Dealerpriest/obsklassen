@@ -1,52 +1,67 @@
 <template>
-  <div id="app" class="row">
-    <div class="col-md-3">
-      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><span>
-    </div>
+  <div>
+
+    <background-video v-show="isVideoActive"></background-video>
     
-    <div class="col-md-6">
+    <div id="site-container" class="container-fluid">
       <div class="row">
-        <div v-for="menuItem in menu">
-          <router-link :to="menuItem.url">{{menuItem.name}} </router-link>
+        <div id="nav-menu">
+          <template v-for="menuItem in menu">
+            <router-link :to="menuItem.url" class="nav-link">{{menuItem.name}} </router-link>
+          </template>
         </div>
       </div>
-      <router-view></router-view>
-      <!-- <img src="./assets/logo.png"> -->
-      <!-- <sorter></sorter> -->
+
+      <div class="row">
+        <div class="col-xs-12">
+          <router-view></router-view>
+        </div>
+      </div>
     </div>
 
-    <div class="col-md-3">
-      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    </div>
   </div>
 </template>
 
 <script>
-import sorter from './components/sorter'
+// import sorter from './components/sorter'
+import backgroundVideo from './components/backgroundVideo'
 
 export default {
   name: 'app',
   data () {
     return {
       menu: [
+        {name: 'Start', url: '/'},
         {name: 'Gigs', url: '/gigs'},
         {name: 'Diskografi', url: '/diskografi'}
       ]
     }
   },
+  computed: {
+    isVideoActive: function () {
+      return this.$route.path === '/'
+    }
+  },
   components: {
-    sorter
+    backgroundVideo
   }
 }
 </script>
 
+<style src="./style.scss" lang="scss"></style>
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+#site-container {
+  position: relative;
+  z-index: 1;
+}
+
+#nav-menu {
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+}
+
+.nav-link {
+  font-family: 'arial';
+  font-size: 3rem;
 }
 </style>

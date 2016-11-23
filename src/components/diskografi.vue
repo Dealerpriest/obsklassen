@@ -1,6 +1,18 @@
 <template>
   <div class="diskografi">
-    This is diskografi page
+    <div id="app" class="row">
+      <div class="col-md-3">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><span>
+      </div>
+      
+      <div class="col-md-6">
+        
+      </div>
+
+      <div class="col-md-3">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      </div>
+    </div>
   </div>
 </template>
 

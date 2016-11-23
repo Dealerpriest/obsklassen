@@ -7,10 +7,12 @@ Vue.use(VueRouter)
 import App from './App'
 
 // route components
+import start from 'components/start'
 import gigs from 'components/gigs'
 import diskografi from 'components/diskografi'
 
 const routes = [
+    {path: '/', component: start},
     {path: '/gigs', component: gigs},
     {path: '/diskografi', component: diskografi}
 ]
