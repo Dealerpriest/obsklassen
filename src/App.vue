@@ -4,7 +4,7 @@
     <background-video v-show="isVideoActive"></background-video>
     
     <div id="site-container" class="container-fluid">
-      <div class="row">
+      <div id ="site-header" class="row">
         <div id="nav-menu">
           <template v-for="menuItem in menu">
             <router-link :to="menuItem.url" class="nav-link">{{menuItem.name}} </router-link>
@@ -33,7 +33,8 @@ export default {
       menu: [
         {name: 'Start', url: '/'},
         {name: 'Gigs', url: '/gigs'},
-        {name: 'Diskografi', url: '/diskografi'}
+        {name: 'Diskografi', url: '/diskografi'},
+        {name: 'Texter', url: '/texter'}
       ]
     }
   },
@@ -56,12 +57,31 @@ export default {
   z-index: 1;
 }
 
+#site-header {
+  /*background-color: black;*/
+  /*opacity: 0.8;*/
+}
+
 #nav-menu {
-  text-align: center;
+  opacity: 1.0;
+  max-width: 800px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  /*background-color: black;*/
 }
 
 .nav-link {
-  font-family: 'arial';
-  font-size: 3rem;
+  font-size: 4rem;
+  /*transform: rotate(6deg);*/
+  color: white;
+}
+
+.nav-link:hover{
+  color: white;
+  transform: translateY(4px);
+  text-decoration: none;
+  /*text-transform: uppercase;*/
 }
 </style>

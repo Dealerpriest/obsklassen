@@ -4,12 +4,21 @@ html {
 
 body {
   background-color: black;
+  font-family: "raleway",sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: -0.41em;
+  text-shadow: 1px 1px 6px #000000;
+}
+
+a {
+  color: white;
 }
 
 
 #app {
   background-color: black;
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

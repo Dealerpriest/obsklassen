@@ -10,11 +10,22 @@ import App from './App'
 import start from 'components/start'
 import gigs from 'components/gigs'
 import diskografi from 'components/diskografi'
+import texter from 'components/texter'
+import coverArt from 'components/coverArt'
 
 const routes = [
-    {path: '/', component: start},
-    {path: '/gigs', component: gigs},
-    {path: '/diskografi', component: diskografi}
+  {path: '/', component: start},
+  {path: '/gigs', component: gigs},
+  {path: '/diskografi',
+    component: diskografi,
+    children: [
+      {
+        path: ':cover-id',
+        component: coverArt
+      }
+    ]
+  },
+  {path: '/texter', component: texter}
 ]
 
 const router = new VueRouter({routes})
