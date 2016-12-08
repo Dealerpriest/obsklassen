@@ -1,6 +1,5 @@
+// ------------Vue Router Stuff
 import Vue from 'vue'
-import Vuex from 'vuex'
-Vue.use(Vuex)
 import VueRouter from 'vue-router'
 Vue.use(VueRouter)
 
@@ -30,10 +29,14 @@ const routes = [
 
 const router = new VueRouter({routes})
 
+// ----------Vuex Stuff
+import * as store from './vuex/store'
+
 /* eslint-disable no-new */
 new Vue({
   router,
   // el: '#app',
+  store,
   template: '<App/>',
   components: { App }
 }).$mount('#app')

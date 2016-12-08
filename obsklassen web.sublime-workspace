@@ -1,0 +1,1940 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"length"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"curre",
+				"currentDescriptionIndex"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"cover",
+				"coverArt"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"site",
+				"site-header"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"nav-",
+				"nav-menu"
+			],
+			[
+				"video",
+				"videoIsActive"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"lfo",
+				"lfoDirection"
+			],
+			[
+				"stamp",
+				"stamp4"
+			],
+			[
+				"delay",
+				"delayMod"
+			],
+			[
+				"wav",
+				"waveTypes"
+			],
+			[
+				"enve",
+				"envelopeCounter"
+			],
+			[
+				"start",
+				"startPitch"
+			],
+			[
+				"envelop",
+				"envelopeCounter"
+			],
+			[
+				"env",
+				"envelopeCounter"
+			],
+			[
+				"envelo",
+				"envelopeCounter"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"back",
+				"background-video"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"Vue",
+				"VueRouter"
+			],
+			[
+				"the",
+				"theText"
+			],
+			[
+				"filt",
+				"filteredValue"
+			],
+			[
+				"filter",
+				"filterConstant"
+			],
+			[
+				"mu",
+				"multiRange"
+			],
+			[
+				"fetch",
+				"fetchPlotData"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"save",
+				"saveSvgAsPng"
+			],
+			[
+				"char",
+				"chart"
+			],
+			[
+				"origi",
+				"originY"
+			],
+			[
+				"c3",
+				"c3-circles"
+			],
+			[
+				"circ",
+				"circle"
+			],
+			[
+				"sele",
+				"select	<select>"
+			],
+			[
+				"data",
+				"dataLangth"
+			],
+			[
+				"fet",
+				"fetchPlotData"
+			],
+			[
+				"gen",
+				"genome_id"
+			],
+			[
+				"genome",
+				"genome_id"
+			],
+			[
+				"ana",
+				"analysis_data"
+			],
+			[
+				"preba",
+				"prebaked_statistics"
+			],
+			[
+				"preb",
+				"prebaked_statistics"
+			],
+			[
+				"prebak",
+				"prebakedArray"
+			],
+			[
+				"fil",
+				"filteredGenomes"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"demogr",
+				"demographics"
+			],
+			[
+				"pre",
+				"prebakedArray"
+			],
+			[
+				"col",
+				"collection"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"comm",
+				"computerMusic"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"plot",
+				"plotData"
+			],
+			[
+				"analy",
+				"analyzationData"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"main",
+				"mainContainer"
+			],
+			[
+				"audi",
+				"audioUnlocked"
+			],
+			[
+				"stud",
+				"student"
+			],
+			[
+				"teach",
+				"teacher_id"
+			],
+			[
+				"genom",
+				"genomes"
+			],
+			[
+				"th",
+				"theStudents"
+			],
+			[
+				"real",
+				"realStudents"
+			],
+			[
+				"lig",
+				"light-background-color"
+			],
+			[
+				"dar",
+				"dark-background-color"
+			],
+			[
+				"light",
+				"lighter-background-color"
+			],
+			[
+				"added",
+				"addedStudents"
+			],
+			[
+				"stude",
+				"studentList"
+			],
+			[
+				"this",
+				"thisTeacher"
+			],
+			[
+				"nrof",
+				"nrofstudents"
+			],
+			[
+				"disb",
+				"disableInitializeButton"
+			],
+			[
+				"clear",
+				"clearMyGenomes"
+			],
+			[
+				"sound",
+				"soundEngine"
+			],
+			[
+				"high",
+				"highPerformance"
+			],
+			[
+				"soundEn",
+				"soundEngine"
+			],
+			[
+				"TOGGLE",
+				"togglePerformance"
+			],
+			[
+				"stu",
+				"student"
+			],
+			[
+				"create",
+				"createdStudents"
+			],
+			[
+				"sess",
+				"sessionParams"
+			],
+			[
+				"student",
+				"studentList"
+			],
+			[
+				"teacher",
+				"teacherSettings"
+			],
+			[
+				"test",
+				"testStudent"
+			],
+			[
+				"studen",
+				"studentWithHash"
+			],
+			[
+				"tes",
+				"testStudent"
+			],
+			[
+				"token",
+				"tokenLength"
+			],
+			[
+				"valid",
+				"validator"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"tea",
+				"teacherSettings"
+			],
+			[
+				"teac",
+				"teacher_id"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"field",
+				"fieldChange"
+			],
+			[
+				"disable",
+				"disableSubQuestions"
+			],
+			[
+				"sou",
+				"soundEngine"
+			],
+			[
+				"soun",
+				"soundengine"
+			],
+			[
+				"sounde",
+				"soundengine"
+			],
+			[
+				"SET",
+				"SETSOUNDENGINE"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"mutat",
+				"mutation"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"array",
+				"arrayStudent"
+			],
+			[
+				"arra",
+				"arrayStudent"
+			],
+			[
+				"Teacher",
+				"TeacherController"
+			],
+			[
+				"students",
+				"studentWithHash"
+			],
+			[
+				"make",
+				"makeVisible"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"sude",
+				"students"
+			],
+			[
+				"chec",
+				"check"
+			],
+			[
+				"el",
+				"eloquent"
+			],
+			[
+				"axis",
+				"axisLengthY"
+			],
+			[
+				"orig",
+				"originY"
+			],
+			[
+				"y",
+				"yStartOffset"
+			],
+			[
+				"x",
+				"xOffset"
+			],
+			[
+				"inter",
+				"interval"
+			],
+			[
+				"sm",
+				"samePositionGroups"
+			],
+			[
+				"same",
+				"samePositionGroups"
+			],
+			[
+				"scale",
+				"scaledValue"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"demo",
+				"demographics"
+			],
+			[
+				"genomes",
+				"genomesExcludedFromChart"
+			],
+			[
+				"excl",
+				"excludedGenomesFromViz"
+			],
+			[
+				"nrOf",
+				"nrOfFilteredGenomes"
+			],
+			[
+				"u",
+				"updateFilteredGenomes"
+			],
+			[
+				"filte",
+				"filterKey"
+			],
+			[
+				"fetc",
+				"fetchFilterSchema"
+			],
+			[
+				"SETF",
+				"SETFILTERSCHEMA"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.vue",
+			"settings":
+			{
+				"buffer_size": 1640,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/gigs.vue",
+			"settings":
+			{
+				"buffer_size": 277,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/diskografi.vue",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/facebookFeed.vue",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/coverArt.vue",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/style.scss",
+			"settings":
+			{
+				"buffer_size": 472,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/start.vue",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Processing/Processing.sublime-build",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"synta vu",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"bracke",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"bra",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"sniff",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"laravel",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"++",
+				"Set Syntax: C++"
+			],
+			[
+				"synt",
+				"Set Syntax: PHP"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"+",
+				"Set Syntax: C++"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/average swede/AppData/Roaming/npm/node_modules/npm/html/doc/cli/npm-ls.html",
+		"/C/Users/average swede/Desktop/gunnar script alexa.js",
+		"/F/webdev/obsklassen/src/style.scss",
+		"/F/webdev/obsklassen/src/main.js",
+		"/F/webdev/obsklassen/src/App.vue",
+		"/F/webdev/obsklassen/src/assets/gigs.json",
+		"/F/webdev/obsklassen/src/components/start.vue",
+		"/F/webdev/obsklassen/src/components/backgroundVideo.vue",
+		"/F/webdev/obsklassen/src/components/texter.vue",
+		"/F/webdev/obsklassen/src/components/diskografi.vue",
+		"/F/webdev/obsklassen/src/components/coverArt.vue",
+		"/F/webdev/obsklassen/src/components/gigs.vue",
+		"/F/webdev/obsklassen/index.html",
+		"/C/Users/average swede/AppData/Local/Temp/7zO482C.tmp/server.js",
+		"/C/Users/average swede/AppData/Local/Temp/7zOAAE3.tmp/server.js",
+		"/C/Users/average swede/Desktop/initialize-mongo-on-nuc.js",
+		"/F/webdev/obsklassen/src/components/sorter.vue",
+		"/C/Users/average swede/Downloads/Obsinfo.txt",
+		"/E/Google Drive/sketches/steffieproject/steffieproject.ino",
+		"/E/Google Drive/sketches/audioshieldexperiment/audioshieldexperiment.ino",
+		"/F/webdev/obsklassen/src/style.sass",
+		"/F/webdev/obsklassen/build/webpack.base.conf.js",
+		"/C/Users/average swede/AppData/LocalLow/The Interactive Institute/Tribe2020/tribeSave.gd",
+		"/C/Program Files (x86)/PuTTY/README.txt",
+		"/F/webdev/obsklassen/.gitignore",
+		"/F/webdev/obsklassen/package.json",
+		"/F/stuff/unity/Tribe2020/Assets/EasyMovieTexture/Unity5_Patch_IOS/._Untiy5_Patch_iOS.unitypackage.meta",
+		"/F/stuff/unity/Tribe2020/Assets/EasyMovieTexture/._Prefab.meta",
+		"/F/webdev/api/setmirrormessage.php",
+		"/F/stuff/unity/Tribe2020/Assets/EasyMovieTexture/._Chromakey.shader.meta",
+		"/F/stuff/unity/Tribe2020/Assets/EasyMovieTexture/._AndroidSource.meta",
+		"/F/stuff/unity/Tribe2020/Assets/Art/Models/Materials/Hair_Dryer-Yazı.mat.meta",
+		"/F/stuff/unity/Tribe2020/Assets/Art/Models/Materials/Hair_Dryer-[0129_WhiteSmoke]1.mat.meta",
+		"/F/stuff/unity/Tribe2020/findBrokenMeta.rb",
+		"/F/stuff/unity/.gitignore",
+		"/F/webdev/speechtest/index.html",
+		"/E/Google Drive/sketches/bare_minimum/bare_minimum.ino",
+		"/C/Program Files/Unity/Editor/Data/Documentation/en/Manual/class-NavMeshAgent.html",
+		"/F/webdev/musikjakten/resources/views/statistics.blade.php",
+		"/F/webdev/musikjakten/app/Http/routes.php",
+		"/F/webdev/musikjakten/app/Http/Controllers/StatisticsController.php",
+		"/F/webdev/musikjakten/resources/assets/js/analyze/filterArea.vue",
+		"/F/webdev/musikjakten/resources/assets/js/analyze/visualizationArea.vue",
+		"/F/webdev/musikjakten/resources/assets/js/analyze/vuex/actions.js",
+		"/F/webdev/musikjakten/resources/assets/js/analyze/vuex/getters.js",
+		"/F/webdev/musikjakten/resources/assets/js/analyze/vuex/store.js",
+		"/F/webdev/musikjakten/resources/filterschema.json",
+		"/F/webdev/musikjakten/resources/assets/sass/app.scss",
+		"/F/webdev/musikjakten/gulpfile.js",
+		"/F/webdev/musikjakten/package.json",
+		"/F/webdev/musikjakten/resources/views/layouts/app.blade.php",
+		"/F/webdev/musikjakten/database/migrations/2016_10_10_122620_add_years_played_to_prebaked_statistics.php",
+		"/F/webdev/musikjakten/database/migrations/2016_10_07_085202_create_prebaked_statistics.php",
+		"/F/webdev/musikjakten/resources/questionschema.json",
+		"/F/webdev/musikjakten/app/Http/Controllers/TeacherController.php",
+		"/F/webdev/musikjakten/resources/analysis_results_array.json",
+		"/F/webdev/musikjakten/database/seeds/fillPrebakedStatistics.php",
+		"/C/Users/average swede/Desktop/analysis_results_sel.csv",
+		"/F/webdev/musikjakten/app/PrebakedStatistic.php",
+		"/F/webdev/musikjakten/app/Http/Controllers/ProfileController.php",
+		"/F/webdev/musikjakten/app/Http/Controllers/GenomeController.php",
+		"/C/Users/average swede/Desktop/analysis_results_hash.js",
+		"/C/Users/average swede/Desktop/analysis_results_array.js",
+		"/F/webdev/musikjakten/.env",
+		"/C/Users/average swede/webdev/musikjakten/resources/assets/js/analyze/vuex/getters.js",
+		"/C/Users/average swede/webdev/musikjakten/laradock/docker-compose.yml",
+		"/C/Users/webdev/musikjakten/laradock/docker-compose.yml",
+		"/F/webdev/musikjakten/laradock/docker-compose.yml",
+		"/F/webdev/musikjakten_docker_project/docker-compose.yml",
+		"/F/webdev/musikjakten/dockerdeployment/env-docker",
+		"/F/webdev/musikjakten/resources/assets/js/vendor/gibber.lib.js",
+		"/F/webdev/musikjakten_databasbackup/all_genomes_sample.csv",
+		"/F/webdev/musikjakten_extras/analysis_results_tillochmed_ID5382.csv",
+		"/F/webdev/musikjakten/app/Genome.php",
+		"/F/webdev/musikjakten/app/User.php",
+		"/F/webdev/musikjakten/resources/assets/js/breed/genomeList.vue",
+		"/F/webdev/musikjakten/resources/views/teacher/auth/register.blade.php",
+		"/F/webdev/musikjakten/public/js/soundengine1.js",
+		"/F/webdev/musikjakten/resources/assets/js/soundengine2.js",
+		"/F/webdev/musikjakten/resources/assets/js/soundengine3.js",
+		"/F/webdev/musikjakten/resources/assets/js/soundengine4.js",
+		"/F/webdev/musikjakten/resources/views/teacher/teacherSettings.blade.php",
+		"/F/webdev/musikjakten/app/Http/Controllers/TeacherAuth/TeacherAuthController.php",
+		"/F/webdev/musikjakten/app/Teacher.php",
+		"/F/webdev/musikjakten_extras/theTabletTest.html",
+		"/F/webdev/musikjakten/resources/assets/js/breed/breedArea.vue",
+		"/F/webdev/musikjakten/resources/views/home.blade.php",
+		"/F/webdev/musikjakten/resources/assets/js/breed/vuex/store.js",
+		"/F/webdev/musikjakten/resources/assets/js/breed/vuex/actions.js",
+		"/G/OSMO_FW_RESULT_AB.txt",
+		"/F/webdev/musikjakten/storage/framework/views/ea730c1161998e6099c40a5a5836d7beb20c39e4.php",
+		"/F/webdev/musikjakten_databasbackup/small_genome_sample.csv",
+		"/F/webdev/musikjakten/resources/assets/js/soundengine4light.js",
+		"/F/webdev/musikjakten/resources/assets/js/soundengine3light.js",
+		"/F/webdev/musikjakten/resources/assets/js/soundengine2light.js",
+		"/F/webdev/musikjakten/resources/assets/js/soundengine1.js",
+		"/F/webdev/musikjakten/resources/assets/js/soundengine1light.js",
+		"/F/webdev/musikjakten/resources/assets/js/settings/question.vue",
+		"/F/webdev/musikjakten/resources/assets/js/settings.js",
+		"/F/webdev/musikjakten/resources/views/settings.blade.php",
+		"/F/webdev/musikjakten/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/F/webdev/musikjakten/app/Http/Controllers/Auth/AuthController.php",
+		"/F/webdev/musikjakten/resources/views/teacher/studentsMail.blade.php",
+		"/F/webdev/musikjakten/vendor/atrox/haikunator/src/Haikunator.php",
+		"/F/webdev/musikjakten/resources/assets/js/breed.js",
+		"/F/webdev/musikjakten/public/js/soundengine4.js",
+		"/F/webdev/musikjakten/public/js/soundengine3.js",
+		"/F/webdev/musikjakten/resources/views/teacher/auth/login.blade.php",
+		"/F/webdev/musikjakten/resources/views/auth/login.blade.php",
+		"/F/webdev/musikjakten/resources/views/welcome.blade.php",
+		"/F/webdev/musikjakten/resources/views/teacher/genomeList.blade.php",
+		"/F/webdev/musikjakten/app/Http/Controllers/TeacherAuth/TeacherPasswordController.php",
+		"/F/webdev/musikjakten/database/migrations/2016_08_25_112245_add_testflag_to_users.php",
+		"/F/webdev/musikjakten/database/migrations/2016_04_26_094952_add_isadmin_field.php",
+		"/F/webdev/musikjakten/vendor/bin/haikunator",
+		"/F/webdev/musikjakten/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/F/webdev/musikjakten/app/Providers/AppServiceProvider.php",
+		"/F/webdev/musikjakten/app/Providers/AuthServiceProvider.php",
+		"/F/webdev/musikjakten/app/Policies/UserPolicy.php",
+		"/F/webdev/musikjakten/app/Providers/EventServiceProvider.php",
+		"/F/webdev/musikjakten/resources/assets/js/soundengine1.js.inactive",
+		"/F/webdev/musikjakten/resources/assets/js/breed/geneshape.vue",
+		"/F/webdev/musikjakten/resources/assets/js/breed/genomeBox.vue",
+		"/F/webdev/musikjakten/resources/assets/js/soundengine3.js.inactive",
+		"/F/webdev/musikjakten/app/Http/Kernel.php",
+		"/F/webdev/musikjakten/database/migrations/2016_06_08_122107_strip_usertable_and_add_username_fields.php",
+		"/F/webdev/musikjakten/database/migrations/2016_08_17_150134_add_soundengine_to_genomes.php",
+		"/F/webdev/musikjakten/database/migrations/2016_06_13_100643_add_teacher_id_to_users.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"F:\\webdev\\obsklassen",
+			"F:\\webdev\\musikjakten",
+			"F:\\webdev\\musikjakten\\app",
+			"F:\\webdev\\musikjakten",
+			"F:\\webdev\\musikjakten\\resources",
+			"F:\\webdev\\musikjakten",
+			"F:\\webdev\\musikjakten\\",
+			"F:\\webdev\\musikjakten\\resources",
+			"F:\\webdev\\musikjakten",
+			"<open files>",
+			"F:\\webdev\\musikjakten",
+			"C:\\Users\\average swede\\Google Drive\\sketches\\mugestic",
+			"C:\\Users\\average swede\\Google Drive\\sketches\\razor-9dof-ahrs-master\\Arduino\\Razor_AHRS",
+			"C:\\Users\\average swede\\Google Drive\\sketches\\mugestic",
+			"C:\\Users\\average swede\\Google Drive\\sketches\\razor-9dof-ahrs-master\\Arduino\\Razor_AHRS",
+			"C:\\Users\\average swede\\Google Drive\\sketches\\razor-9dof-ahrs-master",
+			"C:\\Users\\average swede\\Google Drive\\sketches\\libraries\\RF24",
+			"C:\\Users\\average swede\\Google Drive\\sketches\\mugestic",
+			"C:\\Users\\average swede\\Google Drive\\sketches\\libraries\\RF24",
+			"C:\\Users\\average swede\\Google Drive\\sketches\\mugestic",
+			"C:\\Users\\average swede\\Google Drive\\sketches\\motiondrive",
+			"C:\\Users\\average swede\\Google Drive\\sketches\\libraries_backups\\rf24_old\\RF24",
+			"C:\\Users\\average swede\\Google Drive\\arduino wooohoo\\sketches\\mugestic",
+			"C:\\Program Files (x86)\\Arduino\\libraries\\i2c_t3",
+			"C:\\Users\\average swede\\Google Drive\\arduino wooohoo\\sketches\\cube",
+			"C:\\Users\\average swede\\Google Drive\\arduino wooohoo\\sketches\\razor-9dof-ahrs-master",
+			"C:\\Users\\average swede\\Google Drive\\arduino wooohoo\\sketches\\master",
+			"C:\\Users\\average swede\\Google Drive\\arduino wooohoo\\sketches\\motiondrive",
+			"C:\\Users\\average swede\\Google Drive\\arduino wooohoo\\sketches\\cube",
+			"C:\\Users\\average swede\\Google Drive\\arduino wooohoo\\sketches\\motiondrive",
+			"C:\\Users\\average swede\\Google Drive\\chalmers\\thesis\\development\\motion_driver_6.1\\",
+			"C:\\Users\\average swede\\Google Drive\\chalmers\\thesis\\development\\motion_driver_6.1\\arm\\STM32F4_MD6\\Projects",
+			"C:\\Users\\average swede\\Google Drive\\arduino wooohoo\\sketches\\motiondrive",
+			"C:\\Users\\average swede\\Google Drive\\chalmers\\thesis\\development\\motion_driver_6.1",
+			"C:\\Users\\average swede\\Google Drive\\arduino wooohoo\\sketches\\motiondrive",
+			"C:\\Program Files (x86)\\Arduino\\libraries\\FreeIMU",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"handleFinishSessionRequest",
+			"buildSpeechletResponse",
+			"questions",
+			"handleDescriptionRequest",
+			"cover",
+			"currentRelease",
+			"currentrelease",
+			"sorter",
+			"delayMixer",
+			"s_idx",
+			"webpack.config.js",
+			"webpack.cpnfig.js",
+			"apply",
+			"fcer",
+			"plotdat",
+			"\"genome_id\": 100,",
+			"\"genome_id\": 100",
+			"\"id\": 100",
+			"\"id\"",
+			"id",
+			"2522\"",
+			"2522",
+			";",
+			": ",
+			"\"",
+			"null",
+			"0",
+			"regenerate",
+			"getValue",
+			"samePositionGroups",
+			"genomes",
+			"apply",
+			"setFilters",
+			"XYZ",
+			"volumes_sour",
+			"audiocontext",
+			"panel",
+			"createdStudent",
+			"createdStudents",
+			"save",
+			"SETMYLIST",
+			"set",
+			"download",
+			"record",
+			"soundengine",
+			"soundengine1",
+			"soundengine",
+			"startEngine4",
+			"startEngine3",
+			"startEngine2",
+			"soundEngine",
+			"SOUNDENGINE",
+			"soundEngine",
+			"highperfor",
+			"seq",
+			"dseq",
+			"pchr",
+			"f2",
+			"f1",
+			"15px",
+			"fade",
+			"förv",
+			"förvirrad",
+			"god",
+			"glittr",
+			"hare",
+			"morot",
+			"spegla",
+			"dunke",
+			"stolt",
+			"ryckan",
+			"kväll",
+			"wherehas",
+			"Master",
+			"vis",
+			"klok",
+			"rostig",
+			"rosig",
+			"rosa",
+			"grå",
+			"brödbit",
+			"skönhet",
+			"väg",
+			"händelse",
+			"resa",
+			"kaka",
+			"natt",
+			"sång",
+			"väntan",
+			"våg",
+			"storm",
+			"dunge",
+			"djup",
+			"häst",
+			"katt",
+			"redirectPath",
+			"intended",
+			"globalGenome[1]",
+			"globalGenome[1",
+			"rec",
+			"globalVo",
+			".delete",
+			"profile.demographic_json",
+			"formfield",
+			"@",
+			"expand",
+			"disableSubQuestionsSubQuestions",
+			"profile.demographic_json",
+			"@",
+			"formfield",
+			"@",
+			"template",
+			"soundEngine",
+			"name",
+			"audiocontext",
+			"canresetpasswords",
+			"getBroker",
+			"users",
+			"property_exists",
+			"teacher.auth.emails",
+			"reset",
+			"RedirectsUsers",
+			"redirectsUsers",
+			"redirectPath",
+			"mail",
+			"'guest'",
+			"PasswordController",
+			"Auth"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"genome_id\"",
+			"genome_id",
+			"MAIN_CONFIG",
+			"printf",
+			"Serial.printf",
+			";",
+			"REED_RISING",
+			"REED_FALLING",
+			"REED_TOUCHING",
+			"REED_RISING",
+			"restValue",
+			"timestamp = millis();",
+			"millis",
+			"wire1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.js",
+					"settings":
+					{
+						"buffer_size": 806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.vue",
+					"settings":
+					{
+						"buffer_size": 1640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 389.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/gigs.vue",
+					"settings":
+					{
+						"buffer_size": 277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/diskografi.vue",
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								634,
+								634
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/facebookFeed.vue",
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/components/coverArt.vue",
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/style.scss",
+					"settings":
+					{
+						"buffer_size": 472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/components/start.vue",
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 199.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"start",
+				"src/components/start.vue"
+			],
+			[
+				"sty",
+				"src/style.scss"
+			],
+			[
+				"covera",
+				"src/components/coverArt.vue"
+			],
+			[
+				"main.",
+				"src/main.js"
+			],
+			[
+				"gig",
+				"src/components/gigs.vue"
+			],
+			[
+				"disk",
+				"src/components/diskografi.vue"
+			],
+			[
+				"app",
+				"src/App.vue"
+			],
+			[
+				"questions",
+				"resources/questionschema.json"
+			],
+			[
+				"teacherco",
+				"app/Http/Controllers/TeacherController.php"
+			],
+			[
+				"app.b",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"profil",
+				"app/Http/Controllers/ProfileController.php"
+			],
+			[
+				"genom",
+				"app/Http/Controllers/GenomeController.php"
+			],
+			[
+				"genomel",
+				"resources/assets/js/breed/genomeList.vue"
+			],
+			[
+				"bree",
+				"resources/assets/js/breed/breedArea.vue"
+			],
+			[
+				"action",
+				"resources/assets/js/breed/vuex/actions.js"
+			],
+			[
+				"breed",
+				"resources/assets/js/breed/breedArea.vue"
+			],
+			[
+				"",
+				"resources/assets/js/breed/breedArea.vue"
+			],
+			[
+				"breedare",
+				"/F/webdev/musikjakten/resources/assets/js/breed/breedArea.vue"
+			],
+			[
+				"actions",
+				"resources/assets/js/breed/vuex/actions.js"
+			],
+			[
+				"store.js",
+				"resources/assets/js/breed/vuex/store.js"
+			],
+			[
+				"store",
+				"storage/framework/views/ea730c1161998e6099c40a5a5836d7beb20c39e4.php"
+			],
+			[
+				"hom",
+				"resources/views/home.blade.php"
+			],
+			[
+				"statis",
+				"app/Http/Controllers/StatisticsController.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"genomeli",
+				"resources/assets/js/breed/genomeList.vue"
+			],
+			[
+				"app.sc",
+				"resources/assets/sass/app.scss"
+			],
+			[
+				"teacher",
+				"app/Teacher.php"
+			],
+			[
+				"use",
+				"app/User.php"
+			],
+			[
+				"teac",
+				"resources/views/teacher/teacherSettings.blade.php"
+			],
+			[
+				"teacherauth",
+				"app/Http/Controllers/TeacherAuth/TeacherAuthController.php"
+			],
+			[
+				"sound",
+				"resources/assets/js/soundengine4.js"
+			],
+			[
+				"soundengi",
+				"resources/assets/js/soundengine3.js"
+			],
+			[
+				"soundeng",
+				"resources/assets/js/soundengine2.js"
+			],
+			[
+				"sounde",
+				"public/js/soundengine1.js"
+			],
+			[
+				"teachers",
+				"resources/views/teacher/teacherSettings.blade.php"
+			],
+			[
+				"register.bl",
+				"resources/views/teacher/auth/register.blade.php"
+			],
+			[
+				"home",
+				"resources/views/home.blade.php"
+			],
+			[
+				"genoeli",
+				"resources/assets/js/breed/genomeList.vue"
+			],
+			[
+				"genome",
+				"app/Genome.php"
+			],
+			[
+				"genomcon",
+				"app/Http/Controllers/GenomeController.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"home.bl",
+				"resources/views/home.blade.php"
+			],
+			[
+				"app.bl",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"sounden",
+				"resources/assets/js/soundengine4.js"
+			],
+			[
+				"teacherr",
+				"app/Http/Controllers/TeacherController.php"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"stor",
+				"resources/assets/js/breed/vuex/store.js"
+			],
+			[
+				"app.c",
+				"resources/assets/sass/app.scss"
+			],
+			[
+				"teaceherse",
+				"resources/views/teacher/teacherSettings.blade.php"
+			],
+			[
+				"question",
+				"resources/assets/js/settings/question.vue"
+			],
+			[
+				"settings",
+				"resources/assets/js/settings.js"
+			],
+			[
+				"settings.bl",
+				"resources/views/settings.blade.php"
+			],
+			[
+				"authenticate",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"authco",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"teacherse",
+				"resources/views/teacher/teacherSettings.blade.php"
+			],
+			[
+				"register.bla",
+				"resources/views/teacher/auth/register.blade.php"
+			],
+			[
+				"login",
+				"resources/views/teacher/auth/login.blade.php"
+			],
+			[
+				"welc",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"studentm",
+				"resources/views/teacher/studentsMail.blade.php"
+			],
+			[
+				"genomeco",
+				"app/Http/Controllers/GenomeController.php"
+			],
+			[
+				"teacherau",
+				"app/Http/Controllers/TeacherAuth/TeacherAuthController.php"
+			],
+			[
+				"haik",
+				"vendor/atrox/haikunator/src/Haikunator.php"
+			],
+			[
+				"haikun",
+				"vendor/bin/haikunator"
+			],
+			[
+				"teacheru",
+				"app/Http/Controllers/TeacherAuth/TeacherAuthController.php"
+			],
+			[
+				"add_",
+				"database/migrations/2016_04_26_094952_add_isadmin_field.php"
+			],
+			[
+				"setting",
+				"resources/views/settings.blade.php"
+			],
+			[
+				"app.l",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"authenticates",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"authe",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"rout",
+				"app/Http/routes.php"
+			],
+			[
+				"genomco",
+				"app/Http/Controllers/GenomeController.php"
+			],
+			[
+				"us",
+				"app/User.php"
+			],
+			[
+				"profi",
+				"app/Http/Controllers/ProfileController.php"
+			],
+			[
+				"questio",
+				"resources/questionschema.json"
+			],
+			[
+				"quee",
+				"resources/questionschema.json"
+			],
+			[
+				"genome.",
+				"app/Genome.php"
+			],
+			[
+				"settings.blade",
+				"resources/views/settings.blade.php"
+			],
+			[
+				"genombox",
+				"resources/assets/js/breed/genomeBox.vue"
+			],
+			[
+				"teachersetting",
+				"resources/views/teacher/teacherSettings.blade.php"
+			],
+			[
+				"genomepi",
+				"resources/assets/js/breed/genomepic.vue"
+			],
+			[
+				"genesh",
+				"resources/assets/js/breed/geneshape.vue"
+			],
+			[
+				"breed.js",
+				"public/js/breed.js"
+			],
+			[
+				"teachersett",
+				"resources/views/teacher/teacherSettings.blade.php"
+			],
+			[
+				"auth",
+				"resources/lang/en/auth.php"
+			],
+			[
+				"passwordbro",
+				"vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBroker.php"
+			],
+			[
+				"facadespass",
+				"vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php"
+			],
+			[
+				"redirects",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php"
+			],
+			[
+				"qu",
+				"resources/questionschema.json"
+			],
+			[
+				"resets",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"settings.b",
+				"resources/views/settings.blade.php"
+			],
+			[
+				"profile",
+				"app/Http/Controllers/ProfileController.php"
+			],
+			[
+				"registersus",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php"
+			],
+			[
+				"authentic",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"authenticatesus",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"q",
+				"resources/questionschema.json"
+			],
+			[
+				"middleware",
+				"vendor/laravel/framework/src/Illuminate/Routing/ControllerMiddlewareOptions.php"
+			],
+			[
+				"resetspass",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php"
+			],
+			[
+				"authcont",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"kernel",
+				"app/Http/Kernel.php"
+			],
+			[
+				"authentica",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"throttles",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php"
+			],
+			[
+				"session.h",
+				"config/session.php"
+			],
+			[
+				"breedstor",
+				"resources/assets/js/breed/vuex/store.js"
+			],
+			[
+				"vis",
+				"resources/assets/js/analyze/visualizationArea.vue"
+			],
+			[
+				"statisticsc",
+				"app/Http/Controllers/StatisticsController.php"
+			],
+			[
+				"filtera",
+				"resources/assets/js/analyze/filterArea.vue"
+			],
+			[
+				"statisticc",
+				"app/Http/Controllers/StatisticsController.php"
+			],
+			[
+				"area",
+				"resources/assets/js/analyze/filterArea.vue"
+			],
+			[
+				"app.",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"gibber",
+				"resources/assets/js/vendor/gibber.lib.js"
+			],
+			[
+				"genomecontr",
+				"app/Http/Controllers/GenomeController.php"
+			],
+			[
+				"stat",
+				"resources/views/statistics.blade.php"
+			],
+			[
+				"anal",
+				"app/AnalyzationData.php"
+			],
+			[
+				"sett",
+				"resources/assets/js/settings.js"
+			],
+			[
+				"visu",
+				"resources/assets/js/analyze/visualizationArea.vue"
+			],
+			[
+				"questionsch",
+				"resources/questionschema.json"
+			],
+			[
+				"wel",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"app.blad",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"genes",
+				"resources/assets/js/breed/geneshape.vue"
+			],
+			[
+				"log",
+				"app/Http/Controllers/LogController.php"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				".scss",
+				"resources/assets/sass/app.scss"
+			],
+			[
+				"statistics",
+				"resources/views/statistics.blade.php"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"homee",
+				"resources/views/home.blade.php"
+			],
+			[
+				"layou",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"packa",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
