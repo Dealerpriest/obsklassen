@@ -17,6 +17,17 @@
           <router-view></router-view>
         </div>
       </div>
+
+      <!-- Loop through and render all sections -->
+      <div v-for="section in menu" class="row">
+        <div class="col-xs-12">
+          <div class="section" :style="randomColor">
+            <component :is="section.name"></component>
+          </div>
+        </div>
+      </div>
+
+      
     </div>
 
   </div>
@@ -31,26 +42,37 @@ export default {
   data () {
     return {
       menu: [
-        {name: 'Start', url: '/'},
-        {name: 'Gigs', url: '/gigs'},
-        {name: 'Diskografi', url: '/diskografi'},
-        {name: 'Texter', url: '/texter'}
+        {name: 'start', url: '/'},
+        {name: 'gigs', url: '/gigs'},
+        {name: 'diskografi', url: '/diskografi'},
+        {name: 'texter', url: '/texter'}
       ]
     }
   },
   computed: {
     isVideoActive: function () {
       return this.$route.path === '/'
+    },
+    randomColor: function () {
+      return {'background-color': 'rgb(' + Math.random(255) + ',' + Math.random(255) + ',' + Math.random(255) + ')'}
     }
   },
   components: {
-    backgroundVideo
+    backgroundVideo,
+    start,
+    gigs,
+    diskografi,
+    texter
   }
 }
 </script>
 
 <style src="./style.scss" lang="scss"></style>
 <style>
+
+.section {
+  height: 100vh;
+}
 
 #site-container {
   position: relative;

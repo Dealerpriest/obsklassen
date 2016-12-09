@@ -4,7 +4,7 @@ Vue.use(Vuex)
 
 import * as actions from './actions'
 import * as mutations from './mutations'
-import * as state from './state'
+import state from './state'
 import * as getters from './getters'
 
 const debug = process.env.NODE_ENV !== 'production'
