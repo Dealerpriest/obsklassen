@@ -21,7 +21,7 @@
       <!-- Loop through and render all sections -->
       <div v-for="section in menu" class="row">
         <div class="col-xs-12">
-          <div class="section" :style="randomColor">
+          <div class="section" :id="section.name" :style="randomColor">
             <component :is="section.name"></component>
           </div>
         </div>
@@ -36,6 +36,10 @@
 <script>
 // import sorter from './components/sorter'
 import backgroundVideo from './components/backgroundVideo'
+import start from './components/start'
+import gigs from './components/gigs'
+import diskografi from './components/diskografi'
+import texter from './components/texter'
 
 export default {
   name: 'app',

@@ -1,12 +1,16 @@
 <template>
-  <div class="diskografi">
+  <div class="container-fluid diskografi">
     <div class="row">
       <div class="col-md-3">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><span>
+        <router-link v-if="previous != -1" :to="previous">
+          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><span>
+        </router-link>
       </div>
       
       <div class="col-md-6">
-        <cover-art></cover-art>
+        <p>{{covers[currentCover].title}}</p>
+        <router-view name="cover"></router-view>
+        <!-- <cover-art></cover-art> -->
       </div>
 
       <div class="col-md-3">
@@ -26,21 +30,26 @@ export default {
   data () {
     return {
       currentCover: 0,
-      covers: []
+      covers: [
+        {title: 'Din Future Boss'},
+        {title: 'Du kommer aldrig undan'},
+        {title: 'Dö själv och låt andra leva'},
+        {title: 'Pärlplattor för Svin'}
+      ]
     }
   },
   computed: {
     next: function () {
       if (this.currentCover >= (this.covers.length - 1)) {
-        return -1
+        return '-1'
       }
-      return this.currentCover + 1
+      return (this.currentCover + 1).toString()
     },
     previous: function () {
       if (this.currentCover <= 0) {
-        return -1
+        return '-1'
       }
-      return this.currentCover - 1
+      return (this.currentCover - 1).toString()
     }
   }
 }

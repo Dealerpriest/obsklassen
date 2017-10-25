@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"borde",
+				"border-width"
+			],
+			[
 				"di",
 				"diskografi"
 			],
@@ -510,10 +514,6 @@
 			[
 				"u",
 				"updateFilteredGenomes"
-			],
-			[
-				"filte",
-				"filterKey"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "src/main.js",
 			"settings":
 			{
-				"buffer_size": 872,
+				"buffer_size": 1141,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,7 +539,7 @@
 			"file": "src/App.vue",
 			"settings":
 			{
-				"buffer_size": 2169,
+				"buffer_size": 2354,
 				"line_ending": "Unix"
 			}
 		},
@@ -547,7 +547,7 @@
 			"file": "src/components/gigs.vue",
 			"settings":
 			{
-				"buffer_size": 277,
+				"buffer_size": 273,
 				"line_ending": "Windows"
 			}
 		},
@@ -555,7 +555,7 @@
 			"file": "src/components/diskografi.vue",
 			"settings":
 			{
-				"buffer_size": 1047,
+				"buffer_size": 1455,
 				"line_ending": "Windows"
 			}
 		},
@@ -579,7 +579,7 @@
 			"file": "src/style.scss",
 			"settings":
 			{
-				"buffer_size": 472,
+				"buffer_size": 572,
 				"line_ending": "Windows"
 			}
 		},
@@ -982,6 +982,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\"",
+			"Din",
+			"start",
 			"Start",
 			"random",
 			"'+",
@@ -1106,10 +1109,7 @@
 			"getBroker",
 			"users",
 			"property_exists",
-			"teacher.auth.emails",
-			"reset",
-			"RedirectsUsers",
-			"redirectsUsers"
+			"teacher.auth.emails"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1141,7 +1141,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -1149,15 +1149,15 @@
 					"file": "src/main.js",
 					"settings":
 					{
-						"buffer_size": 872,
+						"buffer_size": 1141,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								723,
-								723
+								773,
+								859
 							]
 						],
 						"settings":
@@ -1167,7 +1167,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 228.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1205,15 +1205,15 @@
 					"file": "src/App.vue",
 					"settings":
 					{
-						"buffer_size": 2169,
+						"buffer_size": 2354,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1557,
-								1557
+								689,
+								689
 							]
 						],
 						"settings":
@@ -1223,7 +1223,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1.0,
+						"translation.y": 456.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1233,15 +1233,15 @@
 					"file": "src/components/gigs.vue",
 					"settings":
 					{
-						"buffer_size": 277,
+						"buffer_size": 273,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								58,
+								13
 							]
 						],
 						"settings":
@@ -1261,15 +1261,15 @@
 					"file": "src/components/diskografi.vue",
 					"settings":
 					{
-						"buffer_size": 1047,
+						"buffer_size": 1455,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								564,
-								564
+								1338,
+								1338
 							]
 						],
 						"settings":
@@ -1279,7 +1279,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 399.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1322,8 +1322,8 @@
 						"selection":
 						[
 							[
-								0,
-								265
+								118,
+								118
 							]
 						],
 						"settings":
@@ -1341,15 +1341,15 @@
 					"file": "src/style.scss",
 					"settings":
 					{
-						"buffer_size": 472,
+						"buffer_size": 572,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								252,
-								252
+								105,
+								105
 							]
 						],
 						"settings":

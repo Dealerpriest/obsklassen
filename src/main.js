@@ -1,33 +1,56 @@
+// import $ from 'jquery'
+
 // ------------Vue Router Stuff
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 Vue.use(VueRouter)
 
+// var vueScrollTo = require('vue-scrollTo');
+import vueScrollTo from 'vue-scrollTo'
+// Vue.use(vueScrollTo)
+
 import App from './App'
 
 // route components
-import start from 'components/start'
-import gigs from 'components/gigs'
-import diskografi from 'components/diskografi'
-import texter from 'components/texter'
+// import start from 'components/start'
+// import gigs from 'components/gigs'
+// import diskografi from 'components/diskografi'
+// import texter from 'components/texter'
 import coverArt from 'components/coverArt'
 
 const routes = [
-  {path: '/', component: start},
-  {path: '/gigs', component: gigs},
-  {path: '/diskografi',
-    component: diskografi,
+  {name: 'start', path: '/'},
+  {name: 'gigs', path: '/gigs'},
+  { name: 'diskografi',
+    path: '/diskografi',
     children: [
       {
         path: ':cover-id',
-        component: coverArt
+        components: {
+          cover: coverArt
+        }
       }
     ]
   },
-  {path: '/texter', component: texter}
+  {name: 'texter', path: '/texter'}
 ]
 
-const router = new VueRouter({routes})
+const router = new VueRouter({
+  mode: 'history',
+  routes,
+  scrollBehavior (to, from, savedPosition) {
+    console.log('scroll')
+    var options = {
+      easing: vueScrollTo.easing['ease-in']
+    }
+
+    vueScrollTo.scrollTo('#' + to.name, 500, options)
+
+    // $('#' + to.name)
+    // console.log(to.name)
+    return false // {selector: '#' + to.name}
+  }
+})
 
 // ----------Vuex Stuff
 import * as store from './vuex/store'

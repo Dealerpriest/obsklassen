@@ -1,7 +1,7 @@
 <template>
-  <div class="gigs">
+  <p class="gigs">
     This is gigs page
-  </div>
+  </p>
 </template>
 
 <script>

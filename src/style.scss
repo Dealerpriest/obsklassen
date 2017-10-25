@@ -2,8 +2,13 @@ html {
   background-color: black;
 }
 
-body {
+body {; 
+  color: white; //Make foreground color white on everything
   background-color: black;
+}
+
+div {
+  border: 1px dotted white; 
 }
 
 h1 {
